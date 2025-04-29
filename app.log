@@ -1,0 +1,281 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:13:31.903Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:13:56.420Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:14:02.262Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:14:05.084Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:14:09.731Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:14:15.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:14:17.463Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:3000","timestamp":"2025-04-28T13:15:33.287Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"200\",\"responseTime\":\"9.563\"}","timestamp":"2025-04-28T13:15:51.490Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/favicon.ico\",\"status\":\"404\",\"responseTime\":\"5.513\"}","timestamp":"2025-04-28T13:15:51.532Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8000","timestamp":"2025-04-28T18:23:09.361Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:27:52.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:28:15.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:28:36.257Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:32:54.017Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:33:03.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:33:14.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:33:17.029Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:33:18.053Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:33:20.760Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:34:52.752Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:35:05.827Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:35:13.211Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:35:58.054Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:36:01.306Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:36:15.416Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:36:22.429Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:36:44.931Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:36:48.826Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:38:37.087Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:10.226Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:15.953Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:20.907Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:22.471Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:25.950Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:27.424Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:31.794Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:33.227Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:34.897Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:39:37.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:40:35.467Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:40:45.035Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:40:48.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:41:58.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:42:01.615Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:42:07.591Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:49:54.065Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:49:56.362Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:50:08.436Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:50:10.223Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:50:12.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:50:20.353Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:50:35.339Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:50:37.646Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:37.436Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:40.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:43.430Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:44.813Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:47.797Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:50.038Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:53.003Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:54.451Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:57.914Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:52:59.948Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:04.272Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:06.216Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:07.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:11.772Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:21.050Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:30.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:36.758Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:39.572Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:46.979Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:53:55.646Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:02.125Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:04.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:08.261Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:09.768Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:14.950Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:17.739Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:51.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:54:52.772Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:55:17.727Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:55:19.927Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:55:21.045Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:55:26.388Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:55:27.307Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:02.037Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:05.695Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:10.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:19.419Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:23.403Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:27.330Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:29.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:30.850Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:35.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:37.901Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:40.805Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:42.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T18:56:43.680Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:13:02.692Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:13:05.449Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:13:08.017Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:24.043Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:31.232Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:33.647Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:38.944Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:44.377Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:45.795Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:47.571Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:14:54.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:15:04.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:15:05.951Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:15:08.311Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:15:13.354Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:16:17.408Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:16:22.024Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:16:23.997Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:16:25.095Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:17:34.528Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:17:36.154Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:17:39.233Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:17:51.045Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:17:58.261Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:17:59.807Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:18:01.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:20:56.188Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:35:39.802Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:36:15.743Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:36:25.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:36:58.650Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:38:54.532Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:39:00.957Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:40:17.607Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:41:03.786Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:41:14.134Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:41:16.135Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:41:25.421Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:42:01.119Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-28T19:42:49.324Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-28T19:42:56.648Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-28T19:43:01.214Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-28T19:43:07.304Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-28T19:43:51.951Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected:","timestamp":"2025-04-28T19:44:24.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:44:24.501Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: ","timestamp":"2025-04-28T19:44:56.219Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:44:56.225Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db ","timestamp":"2025-04-28T19:44:58.231Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:44:58.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ","timestamp":"2025-04-28T19:45:00.814Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:00.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ","timestamp":"2025-04-28T19:45:08.465Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:08.472Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host{} ","timestamp":"2025-04-28T19:45:12.338Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:12.342Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host {} ","timestamp":"2025-04-28T19:45:14.545Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:14.552Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net ","timestamp":"2025-04-28T19:45:22.493Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:22.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net  ","timestamp":"2025-04-28T19:45:34.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:34.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db  ","timestamp":"2025-04-28T19:45:35.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:35.992Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name ","timestamp":"2025-04-28T19:45:42.373Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:42.381Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name  ","timestamp":"2025-04-28T19:45:45.791Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:45.798Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name  ","timestamp":"2025-04-28T19:45:48.734Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:48.739Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name $ ","timestamp":"2025-04-28T19:45:49.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:49.938Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net ","timestamp":"2025-04-28T19:45:58.843Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:45:58.849Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:46:03.228Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:46:03.233Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:46:12.363Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:46:12.369Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:47:46.351Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:47:46.357Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:47:56.245Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:47:56.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:00.086Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:00.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:01.618Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:01.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:03.719Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:03.724Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:05.551Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:05.556Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:19.221Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:19.227Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:25.685Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:25.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:27.830Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:27.838Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:45.137Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:45.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:48.621Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:48.629Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:50.149Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:50.158Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:51.797Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:51.802Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:53.536Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:53.545Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:48:58.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:48:58.689Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:05.594Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:05.602Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:08.218Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:08.226Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:12.066Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:12.071Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:13.717Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:13.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:16.512Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:16.520Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:20.035Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:20.041Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:21.042Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:21.049Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:23.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:23.287Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:26.405Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:27.365Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:27.369Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:49:31.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:49:31.459Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:53:45.595Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:53:45.600Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:54:25.276Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:54:25.281Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"4.938\"}","timestamp":"2025-04-28T19:54:48.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/\",\"status\":\"404\",\"responseTime\":\"0.688\"}","timestamp":"2025-04-28T19:54:49.965Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:59:09.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:59:09.109Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:59:16.124Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:59:16.131Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:59:17.988Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:59:17.993Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:59:23.139Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:59:23.145Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:59:24.914Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:59:24.920Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T19:59:26.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T19:59:26.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-28T20:53:36.753Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-28T20:53:36.764Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"12.088\"}","timestamp":"2025-04-28T20:55:04.670Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/favicon.ico\",\"status\":\"404\",\"responseTime\":\"4.544\"}","timestamp":"2025-04-28T20:55:04.701Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-29T10:06:55.034Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:","timestamp":"2025-04-29T10:07:21.630Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:$","timestamp":"2025-04-29T10:08:17.183Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:${","timestamp":"2025-04-29T10:08:19.153Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:${error.message","timestamp":"2025-04-29T10:08:27.398Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:${error.message}","timestamp":"2025-04-29T10:08:28.844Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"`MongoDB connection error:${error.message}`","timestamp":"2025-04-29T10:08:46.650Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:bad auth : Authentication failed.","timestamp":"2025-04-29T10:08:56.539Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:bad auth : Authentication failed.","timestamp":"2025-04-29T10:09:00.587Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:bad auth : Authentication failed.","timestamp":"2025-04-29T10:09:46.777Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:bad auth : Authentication failed.","timestamp":"2025-04-29T10:10:56.410Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"MongoDB connection error:bad auth : Authentication failed.","timestamp":"2025-04-29T10:11:16.116Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:11:37.811Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:11:37.818Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:11:59.532Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:11:59.538Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:12:03.840Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:12:03.845Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:12:05.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:12:05.687Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:12:08.141Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:12:08.147Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:12:46.395Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:12:46.401Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:12:53.196Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:12:53.200Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:18:26.079Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:18:26.087Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:24:44.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:24:44.875Z"}
