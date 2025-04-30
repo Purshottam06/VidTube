@@ -279,3 +279,5 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:18:26.087Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-29T10:24:44.868Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:24:44.875Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T11:06:06.048Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T11:06:06.062Z"}
