@@ -1,6 +1,9 @@
 import { v2 as cloudinary } from 'cloudinary';
-import logger from '../logger';
+import logger from '../logger.js';
 import fs from 'fs';
+import dotenv from 'dotenv'
+
+dotenv.config()
 
 
 
@@ -33,4 +36,16 @@ const uploadOnCloudinary = async (localFilePath)=>{
     }
 }
 
-export {uploadOnCloudinary};
+const deleteFromCloudinary=async (publicId)=>{
+    if(!publicId) return null;
+    try {
+        const response=await cloudinary.uploader.destroy(publicId);
+        logger.info(`Deleted from cloudinary publicId: ${publicId}`)
+        return response;
+    } catch (error) {
+        logger.error(`error deleting from cloudinary ${error.message}`);
+        return null; 
+    }
+}
+
+export {uploadOnCloudinary,deleteFromCloudinary};

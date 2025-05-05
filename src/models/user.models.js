@@ -4,7 +4,7 @@ import jwt from "jsonwebtoken";
 
  const userSchema=new Schema(
     {
-        userName:{
+        username:{
             type:String,
             required:[true,"username is required!"],
             unique:true,
@@ -12,7 +12,7 @@ import jwt from "jsonwebtoken";
             trim:true,
             index:true
         },
-        eamil:{
+        email:{
             type:String,
             required:[true,"email is required!"],
             unique:true,
@@ -49,10 +49,9 @@ import jwt from "jsonwebtoken";
     {timestamps:true}//this object automatically gives createdAt and updated at filed for document..
 )
 
-userSchema.pre("save",async function name(next) {
-    if(!this.modified("password"))return next()
-
-    this.password=bcrypt.hash(this.password,10);
+userSchema.pre("save",async function(next) {
+    if(!this.isModified("password"))return next()
+    this.password=await bcrypt.hash(this.password,10);
     next()
 })
 
@@ -66,7 +65,7 @@ userSchema.methods.generateAccessToken=function(){
         {
             _id:this._id,
             email:this.email,
-            userName:this.userName,
+            userName:this.username,
             fullname:this.fullname
         },
         process.env.ACCESS_TOKEN_SECRET,
@@ -76,7 +75,6 @@ userSchema.methods.generateAccessToken=function(){
 
 
 userSchema.methods.generateRefreshToken=function(){
-    // short lived token
     return jwt.sign(
         {
             _id:this._id,
@@ -87,4 +85,4 @@ userSchema.methods.generateRefreshToken=function(){
 
 }
 
- export const User=mongoose.model("User",userSchema);
+export const User=mongoose.model("User",userSchema);

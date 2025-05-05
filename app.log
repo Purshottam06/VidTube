@@ -281,3 +281,1228 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-29T10:24:44.875Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T11:06:06.048Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T11:06:06.062Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:32:31.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:32:31.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:34:05.133Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:34:05.139Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:54:50.068Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:54:50.074Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:54:58.720Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:54:58.727Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:55:52.604Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:55:52.613Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:55:56.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:55:56.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T12:55:58.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T12:55:58.636Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:12:10.328Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:12:10.336Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"7.875\"}","timestamp":"2025-04-30T13:14:17.281Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users\",\"status\":\"404\",\"responseTime\":\"4.486\"}","timestamp":"2025-04-30T13:18:31.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users\",\"status\":\"404\",\"responseTime\":\"0.987\"}","timestamp":"2025-04-30T13:19:09.464Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"3.049\"}","timestamp":"2025-04-30T13:19:54.371Z"}
+{"level":"\u001b[32minfo\u001b[39m","timestamp":"2025-04-30T13:21:46.851Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"avatar file is missing avatarLocalPath: undefined","timestamp":"2025-04-30T13:21:46.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"400\",\"responseTime\":\"652.764\"}","timestamp":"2025-04-30T13:21:46.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:22:51.430Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:22:51.436Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:22:54.684Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:22:54.691Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:00.231Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:00.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:04.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:04.441Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:09.080Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:09.086Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:13.430Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:13.436Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"request files: undefined","timestamp":"2025-04-30T13:23:17.568Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"avatar file is missing avatarLocalPath: undefined","timestamp":"2025-04-30T13:23:17.570Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"400\",\"responseTime\":\"60.160\"}","timestamp":"2025-04-30T13:23:17.576Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:35.071Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:35.077Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:43.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:43.914Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:23:47.583Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:23:47.589Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:08.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:08.487Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:11.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:11.241Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:16.575Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:16.581Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:18.160Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:18.167Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:22.571Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:22.580Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:32.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:32.245Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:24:34.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:24:34.033Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"request files: undefined","timestamp":"2025-04-30T13:24:40.130Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"avatar file is missing avatarLocalPath: undefined","timestamp":"2025-04-30T13:24:40.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"400\",\"responseTime\":\"62.205\"}","timestamp":"2025-04-30T13:24:40.136Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"request files: undefined","timestamp":"2025-04-30T13:25:18.912Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"avatar file is missing avatarLocalPath: undefined","timestamp":"2025-04-30T13:25:18.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"400\",\"responseTime\":\"51.321\"}","timestamp":"2025-04-30T13:25:18.914Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:25:43.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:25:43.137Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:25:46.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:25:46.495Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:26:17.509Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:26:17.517Z"}
+{"level":"\u001b[31merror\u001b[39m","message":{"fullname":""},"timestamp":"2025-04-30T13:26:25.153Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"400\",\"responseTime\":\"13.561\"}","timestamp":"2025-04-30T13:26:25.158Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:26:40.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:26:40.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:26:43.217Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:26:43.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"19.529\"}","timestamp":"2025-04-30T13:34:20.535Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"52.514\"}","timestamp":"2025-04-30T13:40:37.606Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"48.505\"}","timestamp":"2025-04-30T13:42:48.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:44:35.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:44:35.656Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:44:42.264Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:44:42.277Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:44:46.989Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:44:46.998Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"21.224\"}","timestamp":"2025-04-30T13:45:57.024Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:46:52.015Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:46:52.022Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"139.236\"}","timestamp":"2025-04-30T13:47:20.300Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:48:31.907Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:48:31.912Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:48:37.375Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:48:37.380Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:48:42.776Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:48:42.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:48:52.295Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:48:52.300Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"69.155\"}","timestamp":"2025-04-30T13:49:05.174Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:49:44.728Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:49:44.733Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error in uploading the file to cloudinary: Must supply api_key","timestamp":"2025-04-30T13:49:56.714Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error in uploading the file to cloudinary: Must supply api_key","timestamp":"2025-04-30T13:49:56.716Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"62.576\"}","timestamp":"2025-04-30T13:49:56.722Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:19.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:19.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:22.027Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:22.035Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:23.694Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:23.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:25.474Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:25.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:27.994Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:28.001Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:35.826Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:35.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:37.603Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:37.607Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:51:38.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:51:38.898Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:52:11.687Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:52:11.696Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:52:15.261Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:52:15.267Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:52:17.396Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:52:17.402Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error in uploading the file to cloudinary: Must supply api_key","timestamp":"2025-04-30T13:52:21.448Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error in uploading the file to cloudinary: Must supply api_key","timestamp":"2025-04-30T13:52:21.452Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"77.877\"}","timestamp":"2025-04-30T13:52:21.463Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:53:16.184Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:53:16.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:53:19.381Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:53:19.388Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:53:40.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:53:40.643Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021299/e37oaqi8pr3azhwsiwng.png","timestamp":"2025-04-30T13:55:00.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021300/jcw2zelgfi5ss9tqocpa.jpg","timestamp":"2025-04-30T13:55:02.179Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"5806.497\"}","timestamp":"2025-04-30T13:55:02.202Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:57:17.696Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:57:17.701Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"13.404\"}","timestamp":"2025-04-30T13:57:20.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:57:27.303Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:57:27.308Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:57:36.991Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:57:36.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:57:39.742Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:57:39.747Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:57:43.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:57:43.712Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:57:45.090Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:57:45.097Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021470/pygnslja2j0d5qqotcvy.png","timestamp":"2025-04-30T13:57:51.097Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021471/lsikourxttnzcdimirka.jpg","timestamp":"2025-04-30T13:57:52.145Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"4718.144\"}","timestamp":"2025-04-30T13:57:52.168Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:59:44.054Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:59:44.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T13:59:54.568Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T13:59:54.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:00:24.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:00:24.524Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:00:27.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:00:27.712Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:00:35.533Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:00:35.538Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:00:38.242Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:00:38.247Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:00:49.394Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:00:49.400Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:01:01.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:01:01.079Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:01:03.302Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:01:03.307Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"18.053\"}","timestamp":"2025-04-30T14:01:29.151Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"8.529\"}","timestamp":"2025-04-30T14:01:48.931Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:02:17.116Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:02:17.121Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:02:19.607Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:02:19.612Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:02:25.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:02:25.444Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:02:28.066Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:02:28.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:02:30.967Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:02:30.973Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:03:15.884Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:03:15.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:03:33.538Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:03:33.544Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021833/rqvsluodrdxghbhqchqc.png","timestamp":"2025-04-30T14:03:54.867Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021834/x1epcrlpqhacqklfyg48.jpg","timestamp":"2025-04-30T14:03:56.605Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"5813.644\"}","timestamp":"2025-04-30T14:03:56.614Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021860/tittnd0cyzuydpkidte0.png","timestamp":"2025-04-30T14:04:21.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746021861/slgcvxlc2flpwi81g9ml.jpg","timestamp":"2025-04-30T14:04:22.294Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"5395.675\"}","timestamp":"2025-04-30T14:04:22.324Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:05:58.093Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:05:58.099Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:06:01.213Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:06:01.218Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T14:07:22.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T14:07:22.632Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:28:18.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:28:18.502Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746037749/ya9n2pdd3frl1d3ax04f.png","timestamp":"2025-04-30T18:29:09.930Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746037750/mfzc2hmqzklfeyxzmk4j.jpg","timestamp":"2025-04-30T18:29:10.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"5365.899\"}","timestamp":"2025-04-30T18:29:11.071Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:31:40.974Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:31:40.984Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:32:13.516Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:32:13.521Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:32:25.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:32:25.496Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:36:06.993Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:36:07.004Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:49:06.720Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:49:06.731Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"466.695\"}","timestamp":"2025-04-30T18:50:50.164Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/?_id=68126bf6af96d31f44d570ff\",\"status\":\"404\",\"responseTime\":\"26.031\"}","timestamp":"2025-04-30T18:51:24.933Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68126bf6af96d31f44d570ff\",\"status\":\"404\",\"responseTime\":\"3.000\"}","timestamp":"2025-04-30T18:52:06.860Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:54:43.318Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:54:43.325Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:55:47.690Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:55:47.696Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68126bf6af96d31f44d570ff\",\"status\":\"-\",\"responseTime\":\"-\"}","timestamp":"2025-04-30T18:56:43.017Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T18:57:35.445Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T18:57:35.456Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68126bf6af96d31f44d570ff\",\"status\":\"-\",\"responseTime\":\"-\"}","timestamp":"2025-04-30T18:59:51.342Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68126bf6af96d31f44d570ff\",\"status\":\"-\",\"responseTime\":\"-\"}","timestamp":"2025-04-30T19:00:01.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T19:05:42.460Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T19:05:42.471Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T19:05:51.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T19:05:51.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T19:05:53.229Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T19:05:53.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T19:05:57.482Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T19:05:57.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T19:05:59.736Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T19:05:59.744Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68126bf6af96d31f44d570ff\",\"status\":\"201\",\"responseTime\":\"57.982\"}","timestamp":"2025-04-30T19:07:30.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/favicon.ico\",\"status\":\"404\",\"responseTime\":\"2.043\"}","timestamp":"2025-04-30T19:07:31.564Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68126bf6af96d31f44d570ff\",\"status\":\"201\",\"responseTime\":\"37.483\"}","timestamp":"2025-04-30T19:13:14.990Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:19:09.049Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:19:09.054Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746044358/eoc2zuhub7qbjjedhs1y.png","timestamp":"2025-04-30T20:19:19.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:19:19.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746044359/yf7mf9gen6xzpmlmzakk.jpg","timestamp":"2025-04-30T20:19:20.481Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:19:20.483Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"User creation failed","timestamp":"2025-04-30T20:19:20.505Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: eoc2zuhub7qbjjedhs1y","timestamp":"2025-04-30T20:19:20.998Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: yf7mf9gen6xzpmlmzakk","timestamp":"2025-04-30T20:19:21.562Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"6734.203\"}","timestamp":"2025-04-30T20:19:21.570Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:20:01.741Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:20:01.748Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:20:40.405Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:20:40.418Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:20:51.303Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:20:51.310Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746044459/ygejvp7szdthln77xeat.png","timestamp":"2025-04-30T20:21:00.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:21:00.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746044460/vbcdlxte7mfbd3u02puu.jpg","timestamp":"2025-04-30T20:21:01.354Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:21:01.355Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"User creation failed","timestamp":"2025-04-30T20:21:01.431Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: ygejvp7szdthln77xeat","timestamp":"2025-04-30T20:21:01.920Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: vbcdlxte7mfbd3u02puu","timestamp":"2025-04-30T20:21:02.412Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"6095.380\"}","timestamp":"2025-04-30T20:21:02.420Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:24:26.706Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:24:26.715Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:24:31.339Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:24:31.348Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:24:36.587Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:24:36.595Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:24:39.427Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:24:39.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:24:48.613Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:24:48.619Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:24:55.815Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:24:55.823Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:25:04.005Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:25:04.016Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:25:13.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:25:13.103Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:25:47.994Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:25:48.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:26:04.766Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:26:04.774Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:26:24.415Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:26:24.423Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:26:43.419Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:26:43.432Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:26:49.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:26:49.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746044846/bi3he7vz96bodrl9q96l.png","timestamp":"2025-04-30T20:27:27.700Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:27:27.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746044848/opxim3101lqwlbg3i8ls.jpg","timestamp":"2025-04-30T20:27:28.686Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:27:28.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"4882.982\"}","timestamp":"2025-04-30T20:27:28.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746045024/ube7g5mjwcam6rgozdsb.png","timestamp":"2025-04-30T20:30:25.600Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:30:25.601Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746045025/i6fzzxhgb9xoxu3oegwy.jpg","timestamp":"2025-04-30T20:30:26.624Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:30:26.625Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"4971.224\"}","timestamp":"2025-04-30T20:30:26.675Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:34:47.893Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:34:49.163Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:34:49.169Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:34:53.027Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:34:53.034Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:35:04.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:35:04.883Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:35:09.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:35:09.322Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:35:16.969Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:35:16.976Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:35:18.849Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:35:18.854Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:35:20.388Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:35:20.394Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:35:22.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:35:22.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:36:09.700Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:36:09.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:36:12.435Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:36:12.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:36:16.606Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:36:16.612Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:36:34.338Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:36:34.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:36:41.869Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:36:41.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:01.519Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:01.525Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:04.564Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:04.569Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:06.403Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:06.409Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:08.816Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:08.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:11.233Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:11.239Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:23.202Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:23.207Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:33.107Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:33.115Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:37:41.291Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:37:41.296Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746045472/ohzvo48fbcue9bs3s2jf.png","timestamp":"2025-04-30T20:37:53.651Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:37:53.652Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746045473/v577yrznly6xvyvyqmlm.jpg","timestamp":"2025-04-30T20:37:54.621Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:37:54.623Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User creation failed E11000 duplicate key error collection: vidtube.users index: userName_1 dup key: { userName: null }","timestamp":"2025-04-30T20:37:54.696Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: ohzvo48fbcue9bs3s2jf","timestamp":"2025-04-30T20:37:55.179Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: v577yrznly6xvyvyqmlm","timestamp":"2025-04-30T20:37:55.621Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"5734.641\"}","timestamp":"2025-04-30T20:37:55.626Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:41:42.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:41:42.135Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746045828/gynmtkuspxzfai53ojx3.png","timestamp":"2025-04-30T20:43:49.147Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:43:49.148Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746045829/idavkq22ptz9rqoxpunx.jpg","timestamp":"2025-04-30T20:43:50.133Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:43:50.134Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4775.654\"}","timestamp":"2025-04-30T20:43:50.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046066/wwr5teegv2jjus0xjkpr.png","timestamp":"2025-04-30T20:47:47.248Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:47:47.250Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046067/ynnedespwvme6gjaqn2z.jpg","timestamp":"2025-04-30T20:47:48.254Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:47:48.255Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User creation failed E11000 duplicate key error collection: vidtube.users index: userName_1 dup key: { userName: null }","timestamp":"2025-04-30T20:47:48.302Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: wwr5teegv2jjus0xjkpr","timestamp":"2025-04-30T20:47:48.813Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: ynnedespwvme6gjaqn2z","timestamp":"2025-04-30T20:47:49.321Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"6099.532\"}","timestamp":"2025-04-30T20:47:49.324Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046432/yjtrook6vrzsfabf0vpc.png","timestamp":"2025-04-30T20:53:53.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:53:54.204Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046434/sfbyfkv5wrbm9gcyrw4c.jpg","timestamp":"2025-04-30T20:53:55.304Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:53:55.305Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"User creation failed E11000 duplicate key error collection: vidtube.users index: userName_1 dup key: { userName: null }","timestamp":"2025-04-30T20:53:55.352Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: yjtrook6vrzsfabf0vpc","timestamp":"2025-04-30T20:53:55.865Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Deleted from cloudinary publicId: sfbyfkv5wrbm9gcyrw4c","timestamp":"2025-04-30T20:53:56.399Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"7211.056\"}","timestamp":"2025-04-30T20:53:56.402Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T20:56:17.556Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T20:56:17.563Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046604/hhxdbsi7qdbqpbjp4agj.png","timestamp":"2025-04-30T20:56:45.085Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:56:45.087Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046605/l5b5azw09if2mdfhuxxm.jpg","timestamp":"2025-04-30T20:56:46.053Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:56:46.054Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4847.308\"}","timestamp":"2025-04-30T20:56:46.163Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046662/jlbuyegdwq4rwptyct2y.png","timestamp":"2025-04-30T20:57:43.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-04-30T20:57:43.699Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746046663/ypiazzbujxmappk7pi0s.jpg","timestamp":"2025-04-30T20:57:44.676Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-04-30T20:57:44.677Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"5133.878\"}","timestamp":"2025-04-30T20:57:44.759Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68128ec8c6ca7b23c2687d49\",\"status\":\"201\",\"responseTime\":\"35.932\"}","timestamp":"2025-04-30T20:59:50.069Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:01:08.560Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:01:08.568Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:01:11.725Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:01:11.731Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:01:31.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:01:31.942Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:01:38.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:01:38.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:01:50.339Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:01:50.346Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:01:51.960Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:01:51.965Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:06.507Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:06.518Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:11.396Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:11.402Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:13.408Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:13.413Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:14.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:14.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:17.435Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:17.442Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:18.776Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:18.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:23.417Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:23.423Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:30.065Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:30.069Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:31.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:31.491Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:33.817Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:33.823Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:35.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:35.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:43.544Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:43.550Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:50.910Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:50.914Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:54.372Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:54.378Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:02:57.953Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:02:57.958Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:03:11.587Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:03:11.593Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:03:29.314Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:03:29.320Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:03:33.049Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:03:33.055Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:03:54.749Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:03:54.755Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:03:56.735Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:03:56.740Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:04:03.810Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:04:03.816Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:04:24.903Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:04:24.911Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:04:36.017Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:04:36.023Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68128ec8c6ca7b23c2687d49\",\"status\":\"201\",\"responseTime\":\"49.213\"}","timestamp":"2025-04-30T21:04:37.975Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"42.679\"}","timestamp":"2025-04-30T21:04:45.973Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users\",\"status\":\"201\",\"responseTime\":\"40.124\"}","timestamp":"2025-04-30T21:05:14.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/68128e8ec6ca7b23c2687d45\",\"status\":\"201\",\"responseTime\":\"47.485\"}","timestamp":"2025-04-30T21:06:34.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/healthcheck\",\"status\":\"200\",\"responseTime\":\"1.502\"}","timestamp":"2025-04-30T21:06:59.215Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T21:14:07.414Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T21:14:07.420Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:08:28.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:08:28.351Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:10:06.422Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"516.703\"}","timestamp":"2025-04-30T22:10:06.430Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:11:08.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:11:08.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:11:19.012Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:11:19.019Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:11:23.798Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:11:23.803Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:11:31.899Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"16.563\"}","timestamp":"2025-04-30T22:11:31.904Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:12:25.545Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:12:25.552Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:12:42.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:12:42.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:12:44.814Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:12:44.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:13:07.305Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:13:07.311Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:13:21.664Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:13:21.670Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:13:30.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:13:30.634Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:13:57.173Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:13:57.183Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:01.501Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:01.509Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:04.705Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:04.711Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:15.844Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:15.850Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:18.390Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:18.395Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:22.962Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:22.968Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:36.862Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:36.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:42.206Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:42.212Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:45.640Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:45.649Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:49.962Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:49.969Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:57.248Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:57.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:14:59.868Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:14:59.876Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:15:01.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:15:01.490Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:15:05.299Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:15:05.305Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:15:08.553Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:15:08.560Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:15:22.441Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:15:22.447Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:15:31.641Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"12.560\"}","timestamp":"2025-04-30T22:15:31.644Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:19:13.117Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:19:13.124Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:19:42.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:19:42.525Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:00.163Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:00.175Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:01.738Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:01.745Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:14.754Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:14.760Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:21.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:21.810Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:24.712Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:24.718Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:28.015Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:28.022Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:20:30.202Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:20:30.209Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:20:34.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"14.329\"}","timestamp":"2025-04-30T22:20:34.541Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"64.762\"}","timestamp":"2025-04-30T22:20:45.896Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:21:33.668Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"2.987\"}","timestamp":"2025-04-30T22:21:33.671Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:22:29.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"1.575\"}","timestamp":"2025-04-30T22:22:29.481Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:23:24.569Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:23:24.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:23:46.474Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:23:46.483Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:23:56.487Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"13.454\"}","timestamp":"2025-04-30T22:23:56.491Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:24:06.222Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:24:06.231Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:26:35.297Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:26:35.303Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:26:52.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:26:52.181Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:26:59.369Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:26:59.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:27:04.389Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:27:04.395Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:27:14.200Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:27:14.210Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:27:18.445Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"27.313\"}","timestamp":"2025-04-30T22:27:18.454Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:30:34.372Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:30:34.379Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:30:39.413Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"29.088\"}","timestamp":"2025-04-30T22:30:39.421Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:33:31.543Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:33:31.552Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:34:35.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:34:35.717Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : mull is not defined","timestamp":"2025-04-30T22:34:39.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"29.002\"}","timestamp":"2025-04-30T22:34:39.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:35:09.165Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:35:09.169Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:35:13.509Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:35:13.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:35:19.698Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:35:19.709Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:35:42.523Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:35:42.533Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:36:04.427Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:36:04.435Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"10.443\"}","timestamp":"2025-04-30T22:36:07.880Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:36:35.184Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:36:35.193Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:37:45.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:37:45.446Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"12.029\"}","timestamp":"2025-04-30T22:37:46.467Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:38:59.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:38:59.441Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-04-30T22:39:15.076Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-04-30T22:39:15.081Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"27.714\"}","timestamp":"2025-04-30T22:39:34.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:42:40.661Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:42:40.669Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"261.638\"}","timestamp":"2025-05-01T11:43:04.752Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:43:26.313Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:43:26.319Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:44:50.229Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:44:50.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:45:01.613Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:45:01.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:45:11.502Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:45:11.507Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:45:15.370Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:45:15.374Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:45:18.279Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:45:18.284Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"10.340\"}","timestamp":"2025-05-01T11:46:15.859Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:47:13.384Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:47:13.390Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:47:15.327Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:47:15.334Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"16.045\"}","timestamp":"2025-05-01T11:47:24.580Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:47:33.021Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:47:33.027Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:50:28.984Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:50:28.991Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:50:40.809Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:50:40.839Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:50:44.592Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:50:44.597Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:50:51.404Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:50:51.409Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:50:54.561Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:50:54.566Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:51:07.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:51:07.277Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T11:51:12.042Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T11:51:12.043Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"53.983\"}","timestamp":"2025-05-01T11:51:12.050Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:53:06.318Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:53:06.323Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:53:12.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:53:12.031Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T11:53:19.124Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T11:53:19.124Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"47.245\"}","timestamp":"2025-05-01T11:53:19.127Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"55.970\"}","timestamp":"2025-05-01T11:54:09.995Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:58:27.734Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:58:27.742Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:58:29.059Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:58:29.064Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:58:34.053Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:58:34.059Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:58:36.319Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:58:36.326Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:58:40.550Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:58:40.555Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T11:58:43.811Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T11:58:43.812Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"49.554\"}","timestamp":"2025-05-01T11:58:43.815Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:59:01.663Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:59:01.671Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:59:06.675Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:59:06.680Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:59:08.688Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:59:08.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T11:59:13.801Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T11:59:13.809Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T11:59:20.176Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T11:59:20.177Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"74.195\"}","timestamp":"2025-05-01T11:59:20.180Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:03:37.971Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:03:37.977Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:03:39.262Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:03:39.268Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:03:40.641Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:03:40.647Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T12:03:41.595Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T12:03:41.596Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"64.125\"}","timestamp":"2025-05-01T12:03:41.599Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:04:40.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:04:40.264Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:04:47.814Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:04:47.821Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:04:51.645Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:04:51.649Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:04:54.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:04:54.271Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:04:56.201Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:04:56.207Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:05:26.636Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:05:26.640Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T12:05:34.148Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T12:05:34.148Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"50.172\"}","timestamp":"2025-05-01T12:05:34.151Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:10:50.656Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:10:50.664Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:11:21.429Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:11:21.437Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:11:47.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:11:47.031Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:11:58.589Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:11:58.595Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:08.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:08.447Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:14.123Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:14.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:20.525Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:20.532Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:22.266Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:22.272Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:30.505Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:30.510Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:34.656Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:34.664Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:13:37.676Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:13:37.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:08.133Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:08.139Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:12.936Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:12.946Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:19.762Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:19.766Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:33.457Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:33.463Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:40.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:40.031Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:46.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:46.443Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:14:54.258Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:14:54.268Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:15:09.121Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:15:09.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:15:11.423Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:15:11.428Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:15:22.590Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:15:22.596Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:15:28.630Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:15:28.636Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:10.616Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:10.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:14.098Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:14.105Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:16.685Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:16.690Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:21.881Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:21.886Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:25.464Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:25.470Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:35.395Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:35.401Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T12:16:37.754Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T12:16:37.761Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T13:32:47.099Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T13:32:47.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T13:34:25.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T13:34:25.635Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:02:16.159Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:02:16.167Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"58.253\"}","timestamp":"2025-05-01T14:02:31.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:08:28.148Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:08:28.155Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:11:38.221Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:11:38.228Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:13:11.080Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:13:11.086Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:13:16.524Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:13:16.530Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"62.215\"}","timestamp":"2025-05-01T14:14:35.917Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:15:00.866Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:15:00.870Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:17:48.553Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:17:48.557Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:17:58.487Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:17:58.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"500\",\"responseTime\":\"63.276\"}","timestamp":"2025-05-01T14:18:08.719Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746109213/ulhsotwnicofkgirbexl.png","timestamp":"2025-05-01T14:20:14.334Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-05-01T14:20:14.335Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746109214/cjlmc1z1sxsjmntjafzt.jpg","timestamp":"2025-05-01T14:20:15.443Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-05-01T14:20:15.444Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"6712.805\"}","timestamp":"2025-05-01T14:20:15.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"45.237\"}","timestamp":"2025-05-01T14:21:03.399Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813831f8b33645cfcc83c43\",\"status\":\"201\",\"responseTime\":\"42.858\"}","timestamp":"2025-05-01T14:21:33.795Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:21:48.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:21:48.079Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:21:50.685Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:21:50.691Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813831f8b33645cfcc83c43\",\"status\":\"500\",\"responseTime\":\"6.962\"}","timestamp":"2025-05-01T14:22:41.693Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813831f8b33645cfcc83c43\",\"status\":\"500\",\"responseTime\":\"2.244\"}","timestamp":"2025-05-01T14:23:32.546Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:24:51.808Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:24:51.814Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813831f8b33645cfcc83c43\",\"status\":\"500\",\"responseTime\":\"5.802\"}","timestamp":"2025-05-01T14:24:55.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:26:24.483Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:26:24.488Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"68.580\"}","timestamp":"2025-05-01T14:26:31.751Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813831f8b33645cfcc83c43\",\"status\":\"201\",\"responseTime\":\"114.046\"}","timestamp":"2025-05-01T14:26:43.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"81.344\"}","timestamp":"2025-05-01T14:27:13.116Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:27:25.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:27:25.687Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:27:42.873Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:27:42.878Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:27:46.949Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:27:46.955Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:30:23.350Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T14:30:23.351Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"68.761\"}","timestamp":"2025-05-01T14:30:23.355Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:33:15.724Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:33:15.729Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:33:21.036Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:33:21.040Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:33:27.191Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:33:27.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:33:41.102Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:33:41.107Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:33:42.271Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Something went wrong while login : user is not registered!","timestamp":"2025-05-01T14:33:42.272Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"65.499\"}","timestamp":"2025-05-01T14:33:42.275Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:34:29.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:34:29.888Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:34:42.969Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:34:42.974Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:35:13.498Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"45.819\"}","timestamp":"2025-05-01T14:35:13.502Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:38:16.109Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"63.505\"}","timestamp":"2025-05-01T14:38:16.111Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:39:34.451Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:39:34.456Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:39:37.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:39:37.077Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:39:57.485Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:39:57.493Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:40:00.010Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:40:00.015Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:40:03.329Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:40:03.334Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:40:07.178Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:40:07.183Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:40:14.379Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:40:14.416Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:41:10.045Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"66.327\"}","timestamp":"2025-05-01T14:41:10.048Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:43:31.058Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:43:31.064Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:43:34.119Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"68.085\"}","timestamp":"2025-05-01T14:43:34.124Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:47:19.540Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:47:19.545Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:47:21.955Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:47:21.960Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:47:28.295Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:47:28.301Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:49:46.378Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:49:46.384Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:55:11.873Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:55:11.879Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"14.223\"}","timestamp":"2025-05-01T14:55:15.063Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:55:40.839Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:55:40.847Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:55:44.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"45.926\"}","timestamp":"2025-05-01T14:55:44.641Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:56:08.563Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:56:08.570Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"57.228\"}","timestamp":"2025-05-01T14:56:16.811Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:56:30.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:56:30.440Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:58:48.834Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:58:48.839Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:58:53.462Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:58:53.468Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:58:56.208Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:58:56.214Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:58:59.989Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:58:59.995Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:03.340Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:03.345Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:08.978Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:08.984Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:59:20.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"82.343\"}","timestamp":"2025-05-01T14:59:20.066Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:28.819Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:28.829Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:30.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:30.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:34.901Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:34.905Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:38.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:38.542Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T14:59:44.784Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T14:59:44.790Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T14:59:46.681Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"52.825\"}","timestamp":"2025-05-01T14:59:46.684Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:02:25.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:02:25.295Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:02:26.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:02:26.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:02:32.189Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:02:32.195Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:02:37.206Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:02:37.212Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"62.805\"}","timestamp":"2025-05-01T15:02:42.359Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:03:23.489Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:03:23.495Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"69.049\"}","timestamp":"2025-05-01T15:03:30.770Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:04:04.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:04:04.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:04:08.510Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:04:08.515Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:04:10.456Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:04:10.461Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:04:12.514Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:04:12.520Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"67.447\"}","timestamp":"2025-05-01T15:04:15.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:06:04.677Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:06:04.687Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:07:52.371Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:07:52.375Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:07:59.246Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:07:59.252Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:08:12.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:08:12.764Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:08:40.636Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:08:40.642Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:08:42.160Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:08:42.167Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:08:49.604Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:08:49.609Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"14.074\"}","timestamp":"2025-05-01T15:09:01.373Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:09:39.480Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:09:39.490Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"13.248\"}","timestamp":"2025-05-01T15:09:42.956Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T15:09:56.713Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"55.756\"}","timestamp":"2025-05-01T15:09:56.715Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:10:22.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:10:22.911Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:10:25.397Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:10:25.403Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:18:41.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:18:41.990Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T15:19:11.251Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"67.936\"}","timestamp":"2025-05-01T15:19:11.259Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T15:19:59.373Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"40.028\"}","timestamp":"2025-05-01T15:19:59.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:21:06.349Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:21:06.357Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T15:21:12.120Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"61.834\"}","timestamp":"2025-05-01T15:21:12.126Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T15:23:21.102Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T15:23:21.108Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746113017/r1w2i9if9m1si8etpkjp.png","timestamp":"2025-05-01T15:23:38.556Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-05-01T15:23:38.557Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746113018/iptjvrzhuviq6rmxysmy.jpg","timestamp":"2025-05-01T15:23:39.593Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-05-01T15:23:39.594Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"5288.246\"}","timestamp":"2025-05-01T15:23:39.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"43.508\"}","timestamp":"2025-05-01T15:24:05.456Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T15:24:21.315Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"87.709\"}","timestamp":"2025-05-01T15:24:21.318Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"53.927\"}","timestamp":"2025-05-01T15:24:27.983Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"500\",\"responseTime\":\"2.127\"}","timestamp":"2025-05-01T15:25:26.821Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T15:26:27.436Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"43.167\"}","timestamp":"2025-05-01T15:26:27.438Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:38:40.921Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:38:40.929Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:39:03.275Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:39:03.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/update-user\",\"status\":\"404\",\"responseTime\":\"196.460\"}","timestamp":"2025-05-01T18:39:11.287Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user\",\"status\":\"500\",\"responseTime\":\"56.106\"}","timestamp":"2025-05-01T18:39:21.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:41:05.165Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:41:05.172Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:52:11.551Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:52:11.556Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T18:52:17.393Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"65.403\"}","timestamp":"2025-05-01T18:52:17.396Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:53:30.565Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:53:30.571Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:53:32.865Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:53:34.060Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:53:34.065Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T18:53:47.144Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"55.571\"}","timestamp":"2025-05-01T18:53:47.147Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:54:01.829Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:54:01.838Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T18:54:06.892Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T18:54:06.900Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"user is not registered!","timestamp":"2025-05-01T18:54:10.771Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"57.965\"}","timestamp":"2025-05-01T18:54:10.776Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746126279/hxjpfvmridp36jgjcduk.png","timestamp":"2025-05-01T19:04:40.995Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-05-01T19:04:40.996Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746126280/jbrvebni8ivkotoxlzys.jpg","timestamp":"2025-05-01T19:04:41.948Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-05-01T19:04:41.949Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"6153.541\"}","timestamp":"2025-05-01T19:04:42.301Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"201\",\"responseTime\":\"246.164\"}","timestamp":"2025-05-01T19:05:39.256Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:06:39.020Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:06:39.026Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:06:50.062Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:06:50.071Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:06:53.031Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:06:53.036Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"201\",\"responseTime\":\"320.499\"}","timestamp":"2025-05-01T19:08:10.554Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:09:12.104Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:09:12.109Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:09:14.997Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:09:15.003Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:09:16.406Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:09:16.413Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user\",\"status\":\"200\",\"responseTime\":\"143.457\"}","timestamp":"2025-05-01T19:09:56.522Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"54.659\"}","timestamp":"2025-05-01T19:11:13.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:12:52.782Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:12:52.787Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:12:58.472Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:12:58.479Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:19.473Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:19.478Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:27.577Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:27.585Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:31.771Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:31.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:33.025Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:33.030Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:35.487Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:35.492Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:38.319Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:38.324Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:41.861Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:41.866Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:46.772Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:46.777Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:51.601Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:51.606Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:53.770Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:53.775Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:55.345Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:55.352Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:13:58.742Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:13:58.746Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"57.703\"}","timestamp":"2025-05-01T19:14:04.153Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:14:15.608Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:14:15.613Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"409\",\"responseTime\":\"63.754\"}","timestamp":"2025-05-01T19:14:17.287Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:14:34.273Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:14:34.280Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746126890/hbyelbyzuxqpolmsd2kq.png","timestamp":"2025-05-01T19:14:51.499Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-05-01T19:14:51.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746126891/eerx6lfx06kmjbtslzeh.jpg","timestamp":"2025-05-01T19:14:52.419Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-05-01T19:14:52.420Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"4738.440\"}","timestamp":"2025-05-01T19:14:52.648Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:15:16.488Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:15:16.499Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:15:22.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:15:22.882Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:15:44.028Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:15:44.035Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746126965/j8nayraa27p5souhbpx6.png","timestamp":"2025-05-01T19:16:07.501Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"avatar uploaded to cloudinary","timestamp":"2025-05-01T19:16:07.503Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746126967/eyr4fmdcihwjzdedc1cn.jpg","timestamp":"2025-05-01T19:16:08.579Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"coverImage uploaded to cloudinary","timestamp":"2025-05-01T19:16:08.580Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/register\",\"status\":\"201\",\"responseTime\":\"5522.682\"}","timestamp":"2025-05-01T19:16:08.820Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"201\",\"responseTime\":\"216.951\"}","timestamp":"2025-05-01T19:17:08.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:17:51.077Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:17:51.082Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:17:53.094Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:17:53.101Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"104.152\"}","timestamp":"2025-05-01T19:20:58.707Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"232.799\"}","timestamp":"2025-05-01T19:21:40.316Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"83.283\"}","timestamp":"2025-05-01T19:24:13.241Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813831f8b33645cfcc83c43\",\"status\":\"500\",\"responseTime\":\"51.719\"}","timestamp":"2025-05-01T19:25:10.702Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:25:52.572Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:25:52.576Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813c82c99f2b8c66c2c4229\",\"status\":\"201\",\"responseTime\":\"109.520\"}","timestamp":"2025-05-01T19:26:28.200Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:27:34.848Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:27:34.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:27:38.066Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:27:38.072Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:27:46.622Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:27:46.627Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:27:47.853Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:27:47.859Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:27:52.512Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:27:52.516Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"99.894\"}","timestamp":"2025-05-01T19:28:03.590Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-01T19:28:15.855Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-01T19:28:15.861Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/logout\",\"status\":\"200\",\"responseTime\":\"86.319\"}","timestamp":"2025-05-01T19:28:18.608Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/6813c82c99f2b8c66c2c4229\",\"status\":\"201\",\"responseTime\":\"83.125\"}","timestamp":"2025-05-01T19:28:55.278Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"55.151\"}","timestamp":"2025-05-01T19:29:34.596Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T08:31:49.694Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T08:31:49.709Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/api/v1/users/\",\"status\":\"201\",\"responseTime\":\"93.762\"}","timestamp":"2025-05-03T08:32:20.257Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"852.642\"}","timestamp":"2025-05-03T08:32:50.335Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-password\",\"status\":\"400\",\"responseTime\":\"62.672\"}","timestamp":"2025-05-03T08:34:34.923Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-password\",\"status\":\"200\",\"responseTime\":\"395.236\"}","timestamp":"2025-05-03T08:34:51.293Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"incorrect username or password!","timestamp":"2025-05-03T08:36:08.481Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"230.492\"}","timestamp":"2025-05-03T08:36:08.484Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"422.278\"}","timestamp":"2025-05-03T08:36:21.500Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T08:37:24.432Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T08:37:24.439Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-password\",\"status\":\"400\",\"responseTime\":\"356.062\"}","timestamp":"2025-05-03T08:37:46.219Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-password\",\"status\":\"200\",\"responseTime\":\"536.300\"}","timestamp":"2025-05-03T08:38:02.995Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"incorrect username or password!","timestamp":"2025-05-03T08:38:31.234Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"401\",\"responseTime\":\"256.002\"}","timestamp":"2025-05-03T08:38:31.237Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"445.010\"}","timestamp":"2025-05-03T08:38:37.791Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:17:29.138Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:17:29.146Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"404\",\"responseTime\":\"12.073\"}","timestamp":"2025-05-03T09:19:20.434Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:19:34.010Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:19:34.016Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:19:37.853Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:19:37.863Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"5.378\"}","timestamp":"2025-05-03T09:19:45.131Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"430.143\"}","timestamp":"2025-05-03T09:20:08.813Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"2.713\"}","timestamp":"2025-05-03T09:21:19.344Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/api/v1/users/login\",\"status\":\"200\",\"responseTime\":\"354.922\"}","timestamp":"2025-05-03T09:21:42.306Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"400\",\"responseTime\":\"419.365\"}","timestamp":"2025-05-03T09:22:03.984Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:22:44.224Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:22:44.235Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:23:20.516Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:23:20.526Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:23:25.046Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:23:25.052Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:23:27.376Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:23:27.385Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:23:30.943Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:23:30.950Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:23:34.802Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:23:34.811Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"400\",\"responseTime\":\"177.455\"}","timestamp":"2025-05-03T09:23:40.288Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:25:06.404Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:25:06.411Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:25:49.767Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:25:49.774Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746264414/zemloptw634dtw8naeko.jpg","timestamp":"2025-05-03T09:26:55.628Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"2993.564\"}","timestamp":"2025-05-03T09:26:55.637Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:27:29.240Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:27:29.249Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:27:46.647Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:27:46.659Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:28:01.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:28:01.917Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:28:09.790Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:28:09.795Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:28:19.671Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:28:19.682Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:28:43.343Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:28:43.351Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:28:48.280Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:28:48.289Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746264562/nkuyy2mmtnjruhzgkcqs.jpg","timestamp":"2025-05-03T09:29:23.416Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"3153.611\"}","timestamp":"2025-05-03T09:29:23.424Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:31:26.580Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:31:26.591Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746264699/kyeve9tnrnswkpl5rlfy.jpg","timestamp":"2025-05-03T09:31:39.922Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"2948.646\"}","timestamp":"2025-05-03T09:31:39.931Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:32:11.704Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:32:11.711Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:32:18.772Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:32:18.781Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:32:21.588Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:32:21.597Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:32:37.282Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:32:37.292Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746264763/yqrdqpxkhltrrziagmp5.jpg","timestamp":"2025-05-03T09:32:44.452Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"3099.557\"}","timestamp":"2025-05-03T09:32:44.458Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:33:25.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:33:25.684Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:33:31.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:33:31.834Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:33:35.568Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:33:35.573Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:33:36.932Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:33:36.942Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:33:40.821Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:33:40.832Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:33:44.811Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:33:44.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:02.533Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:02.537Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:06.683Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:06.692Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:09.788Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:09.795Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:16.159Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:16.165Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:18.140Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:18.149Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:21.231Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:21.240Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:24.380Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:24.390Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:26.485Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:26.491Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:29.776Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:29.783Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:31.922Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:31.933Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:36.906Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:36.913Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:41.958Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:41.967Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:34:55.683Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:34:55.694Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:35:53.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:35:53.197Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:36:11.536Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:36:11.541Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746264998/hclevegqjipos5iwqop1.jpg","timestamp":"2025-05-03T09:36:39.124Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"500\",\"responseTime\":\"3060.181\"}","timestamp":"2025-05-03T09:36:39.128Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:37:58.422Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:37:58.432Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746265087/i6bcgxrhcln3slx9cwqk.jpg","timestamp":"2025-05-03T09:38:08.644Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-avatar\",\"status\":\"200\",\"responseTime\":\"3016.374\"}","timestamp":"2025-05-03T09:38:08.710Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:38:43.638Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:38:43.645Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:38:45.960Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:38:45.967Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:38:53.759Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:38:53.767Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:38:57.359Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:38:57.372Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:39:13.890Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:39:13.922Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-coverImage\",\"status\":\"500\",\"responseTime\":\"15.262\"}","timestamp":"2025-05-03T09:41:00.715Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-coverImage\",\"status\":\"500\",\"responseTime\":\"76.989\"}","timestamp":"2025-05-03T09:41:26.556Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:41:54.970Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:41:54.977Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746265329/ztkxrr7owpnwpuu6m2ui.jpg","timestamp":"2025-05-03T09:42:10.699Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-coverImage\",\"status\":\"500\",\"responseTime\":\"3083.385\"}","timestamp":"2025-05-03T09:42:10.705Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:42:43.708Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:42:43.717Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:42:54.129Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:42:54.138Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:42:58.648Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:42:58.657Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:43:16.672Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:43:16.680Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-03T09:43:18.088Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-03T09:43:18.096Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"file uploaded on cloudinary. File src. http://res.cloudinary.com/dpy1dd2mp/image/upload/v1746265404/bugwj6jv237prj9zxkmh.jpg","timestamp":"2025-05-03T09:43:25.130Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PATCH\",\"url\":\"/api/v1/users/update-user-coverImage\",\"status\":\"200\",\"responseTime\":\"2998.976\"}","timestamp":"2025-05-03T09:43:25.190Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-05T11:36:58.804Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-05T11:36:58.822Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"MongoDB connected: db Host ac-ca6ykr5-shard-00-00.a0kwfhw.mongodb.net db Name vidtube ","timestamp":"2025-05-05T11:37:23.588Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server is running on http://localhost:8001","timestamp":"2025-05-05T11:37:23.601Z"}
